@@ -9,7 +9,7 @@ body {
   background-color: hsl(240, 6%, 13%);
   background-image: url(./images/Group\ 6683.png);
   background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-size: 100% cover;
   height: 100%;
   font-family: 'Roboto', sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -21,10 +21,9 @@ body {
 }
 
 main {
-  background: url(./images/background.png);
-  background-repeat: no-repeat;
+  background: url(./images/background2.png) no-repeat center;
   width: 375px;
-  height: 770px;
+  height: 700px;
 }
 
 .container {
