@@ -9,7 +9,7 @@ body {
   background-color: hsl(240, 6%, 13%);
   background-image: url(./images/Group\ 6683.png);
   background-repeat: no-repeat;
-  background-size: 100% cover;
+  background-size: 1900px;
   height: 100%;
   font-family: 'Roboto', sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -78,7 +78,7 @@ p {
 }
 
 ul {
-  margin-top: 4rem;
+  margin-top: 3rem;
 
   list-style: none;
   padding: 0;
