@@ -26,6 +26,18 @@ main {
   height: 700px;
 }
 
+#faixa {
+  margin-bottom: -87px;
+  z-index: 2;
+}
+
+#quebra {
+  position: absolute;
+  margin-left: -40px;
+  margin-top: 80px;
+  z-index: 0;
+}
+
 .container {
   max-width: 250px;
   margin-left: auto;
